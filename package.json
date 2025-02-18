@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Josh_K",
+	"description": "This is the first time for me to code in JS. freeCodeCamp is awesome!",
+    "keywords": ["javaScript","Learner","FromTaiwan","freeCodeCamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
